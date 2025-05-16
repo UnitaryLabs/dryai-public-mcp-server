@@ -2,8 +2,8 @@ import { McpAgent } from "agents/mcp";
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { z } from "zod";
 
-const DRY_URL_QA_BASE = "http://velocity-local.dry:8080/api/dryqa";
-const DRY_AI_GET_TOOLS_URL = "http://velocity-local.dry:8080/api/gtpb"; // Define the URL as a constant
+const DRY_URL_QA_BASE = "https://dry.ai/api/dryqa";
+const DRY_AI_GET_TOOLS_URL = "https://dry.ai/api/gtpb"; // Define the URL as a constant
 
 const USER_AGENT = "dry-app/1.0";
 // Context from the auth process, encrypted & stored in the auth token
