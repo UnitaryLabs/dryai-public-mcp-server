@@ -1,3 +1,3 @@
 Dry.ai Public MCP SErver
 
-https://dryai-remote-mcp-server.drydotai-workers.dev?ss=<smartspace>
+https://drydotai-public-mcp-server.drydotai-workers.dev?ss=<smartspace>
